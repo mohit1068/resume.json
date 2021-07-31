@@ -1,0 +1,55 @@
+{
+	"basics": {
+		"name": "Mohit Gupta",
+		"label": "Student",
+		"email": "2019KUCP1068@iiitkota.ac.in",
+		"phone": "9610887882",
+		"summary": "I'm a student of Indan Institute Of Information Technology, Kota persuing my B.tech in Computer Science & enginerering.",
+		"location": {
+			
+			"city": "Suratgarh",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "Mohit1068",
+				"url": "https://www.github.com/mohit1068/"
+			},
+			{
+				"network": "linkedin",
+				"username": "mohit-gupta-57a54b217",
+				"url": "https://www.linkedin.com/in/mohit-gupta-57a54b217/"
+			},
+			{
+				"network": "Instagram",
+				"username": "mohit.__.gupta",
+				"url": "https://instagram.com/mohit.__.gupta
+			}
+		]
+	},
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Btech",
+		"startYear": "2019 //Date",
+		"endYear": "2023",
+		"gpa": "8.19",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	
+	"skills": [{
+		"level": "intermediate",
+		"keywords": ["HTML", "CSS",  "C/C++","DSA"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Vollyball"]
+	}],
+	
+}
